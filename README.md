@@ -19,7 +19,7 @@ pip install pandas numpy matplotlib seaborn openpyxl
 ## Instructions
 1. **Clone or Download the Repository**
    ```bash
-   git clone <repository-link>
+   git clone https://github.com/zoya532/DV_Assignment1
    cd DataVisualization_A1
    ```
 2. **Open the Notebook**
