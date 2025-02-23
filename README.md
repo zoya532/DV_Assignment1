@@ -2,7 +2,7 @@
 # README: Data Visualization A1
 
 ## Overview
-This Jupyter Notebook performs Exploratory Data Analysis (EDA) on student attendance records. It includes data loading, preprocessing, visualization, and insights generation.
+This performs Exploratory Data Analysis (EDA) on student attendance records. It includes data loading, preprocessing, visualization, and insights generation.
 
 ## Features
 - **Data Ingestion**: Reads attendance data from Excel files.
